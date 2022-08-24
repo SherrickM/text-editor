@@ -27,3 +27,7 @@ THEN I should see a client server folder structure
 
 ## Mock Up
 
+![alt text](./client/src/images/00-demo.gif)
+![alt text](./client/src/images/01-manifest.png)
+![alt text](./client/src/images/02-service-worker.png)
+![alt text](./client/src/images/03-idb-storage.png)
